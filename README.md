@@ -5,5 +5,5 @@ Instructions to play: Click on release and download the jar file of the lastest 
 
 ![GamePlayScreenShot](https://github.com/AdamBadagliacco/ArrowGame/blob/master/ScreenShot1.PNG?raw=true) ![GamePlayScreenShot](https://github.com/AdamBadagliacco/ArrowGame/blob/master/ScreenShot2.PNG?raw=true)
 
-(Is named VideoGameExam because this was an exam for my game development class. Made with JavaFX)
+(Zip and Jar file are named VideoGameExam because this was an exam for my game development class. Made with JavaFX)
 
