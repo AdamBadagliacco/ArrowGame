@@ -1,5 +1,5 @@
 # ArrowGame
-A remake of the arrow mini game in Zelda (A Link to the Past). Can choose your own character and difficulty!
+A remake of the arrow mini game in The Legend of Zelda: A Link to the Past. Can choose your own character and difficulty!
 
 Instructions to play: Click on release and download the jar file of the lastest version. Must have java downloaded to run. 
 
